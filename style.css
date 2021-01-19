@@ -1,0 +1,38 @@
+
+body{
+
+    background-color: black;
+    height: 2000px;
+    color: white;
+}
+
+.box{
+
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.blueBox{
+    position: inherit;
+    background: blue;
+    top:50px;
+    left: 100px;
+
+}
+
+.container{
+
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+/* 
+.greenBox{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background:green;
+} */
